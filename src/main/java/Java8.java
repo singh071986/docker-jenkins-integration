@@ -33,7 +33,7 @@ public class Java8 {
 		String a="";
 		int a1[]=new int[5];
 		a.length();
-	 int cc2=a.length();
+	 int cc2=a1.length;
 		int cc=a1.length;
 		
 		List<Integer> list = Arrays.asList(1,10, 1,2, 3, 4, 5, 6, 7, 8, 9,0);
